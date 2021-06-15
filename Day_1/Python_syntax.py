@@ -6,7 +6,7 @@
 # 1- Indentaion
 # 2. code block
 
-# 2- Variables
+# 2- Variables #
 # 2.1. Creating a variable
 # 2.2. Getting type of a variable
 # 2.3. Single quotes versus double quotes
