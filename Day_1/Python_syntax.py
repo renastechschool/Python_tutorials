@@ -1,8 +1,6 @@
 
 #DAY 1
 
-#DAY 1
-
 ### PYTHON SYNTAX  #####
 
 # 1- Indentaion
