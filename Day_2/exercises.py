@@ -35,3 +35,10 @@ fruits = ["apple", "banana", "cherry"]
 
 #12-Use a range of indexes to print the third, fourth, and fifth item in the list
 fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+
+#13-Divide 10 by 2, and print the result
+
+#14-Use the correct membership operator to check if "apple" is present in the fruits object.
+fruits = ["apple", "banana"]
+
+
