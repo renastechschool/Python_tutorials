@@ -22,3 +22,16 @@ aList = [1, 2, 3, 4, 5, 6, 7]
 
 #7- Get only last 3 items from the list below:
 aList = [10, 20, 30, 40, 50, 60, 70, 80]
+
+
+#8- Print second item in the list below
+fruits = ["apple", "banana", "cherry"]
+
+#10-Change the value from "apple" to "kiwi", in the fruits list
+fruits = ["apple", "banana", "cherry"]
+
+#11-Use the insert method to add "lemon" as the second item in the fruits list
+fruits = ["apple", "banana", "cherry"]
+
+#12-Use a range of indexes to print the third, fourth, and fifth item in the list
+fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
