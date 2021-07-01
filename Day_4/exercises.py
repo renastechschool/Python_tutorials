@@ -16,6 +16,19 @@
 # given:my_list = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 #expected :20 40 60 80 100
 
+my_list = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+new_list=[]
+for index, i in enumerate(my_list ):
+    print(index, i)
+    if index % 2==0:
+         new_list.append(i)
+print(new_list)
+
+new_list=[]
+for i in range(0, len(my_list)-1,2):
+    new_list.append(my_list[i])
+
+
 #Exercise 7: Display the cube of the number up to a given integer
 # given:input_number = 6
 #expected:
